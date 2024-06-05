@@ -1,0 +1,13 @@
+# creating a basic searching algorithm:
+open file:
+traversal:
+    through writelines.
+    one line = one list element = l1.
+    split the whole list.
+    traverse list through i
+    during traversal, if element == usnm:
+        flag = 1
+    else:
+        flag remains 0
+    
+

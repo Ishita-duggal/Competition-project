@@ -1,0 +1,28 @@
+#python program to generate pass:
+'''1. reads file.
+2. imports prettytable.
+3. sets field to specified values.
+4. adds rows as lines of file - index of username and password.
+5. prints table.'''
+
+from prettytable import PrettyTable
+tbl = PrettyTable() #create empty tables.
+
+#adding field names:
+tbl.field_names = ['DESIGNATION','NAME','PROGRAM','SEMESTER','PHONE NO.','SAP ID']
+
+with open('student.txt','r') as fobj:
+    x = fobj.readlines()
+    print(x)
+
+#creating a nested list:
+l_main = []    
+for i in x:
+    ispl = i.split()
+    print('isplit: ',ispl)
+    l_main.append(ispl)
+print(']\n main list: \n',l_main)
+
+    
+
+

@@ -1,0 +1,10 @@
+project file:
+filename = Roll number
+-name and basic student info
+-info of domain
+-project code (seperate modules if possible.)
+-snapshots of significant features.
+
+>WNC@-6R - arya.223345
+
+&VWW%-U. - ishita.119102

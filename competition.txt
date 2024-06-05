@@ -1,0 +1,2 @@
+judge1 contestant2 8 5 8
+new_judge contestant3 6 8 7

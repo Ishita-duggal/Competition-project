@@ -1,0 +1,4 @@
+abc def 5 7 6
+abc xyz 5 6 6
+mnq pqr 5 9 8
+judge1 cont1 5 4 8

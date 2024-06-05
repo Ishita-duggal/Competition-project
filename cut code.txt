@@ -1,0 +1,49 @@
+    '''elif(ch==2):
+        print("1.sign-in(new contestant/entry) \n2.log-in to see set list and event details 3.Contestant pass \n4. MAIN MENU") 
+        ch2 = int(input("Enter your choice: "))
+        if(ch2 == 1):
+            #new contestant
+        elif(ch2==2):
+            #login page
+            # contestant pass.
+        elif(ch2==3):
+            #back to main menu
+        else:
+            print("Invalid input, please re-renter")
+    elif(ch==3):
+        print("1.Sign-in(new performer) \n2.login(set-list and event details) \n3.Performer pass \n4. MAIN MENU")
+        ch3 = int(input("Enter your choice: "))
+        if(ch3==1):
+            #sign in page
+        elif(ch3==2):
+            #login page + event details(predetermined/ through prettytables)
+        elif(ch3==3):
+            #exit to main menu
+        else:
+            print("Invalid input, kindly re-enter.")
+
+    elif (ch==4):
+        print("1.Sign-in \n2. login \n3.MAIN MENU ")
+        ch4 = int(input("Enter choice: "))
+        
+        if(ch4==1):
+            #sign-in page
+        elif(ch4==2):
+            #login page
+            #Pledge/rule book
+            '''#create another menu:
+           #1. Judgement criteria
+            
+            #3. Enter Scores
+            #4. Update scores
+            #5. Display final scores'''
+
+        '''elif(ch4==3):
+            #exit to main m
+        else:
+            print("Invalid input, kindly re-enter.")
+            
+
+    elif(ch==5):
+        # Could add creation, deletion and updation into it.
+        print(" Choose one of the following: \n1. Generate certificate \n2. Update certificate")'''

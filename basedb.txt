@@ -1,0 +1,7 @@
+Student ishita Bachelors 2 9911132587 ishita.119102 500119102 6HSN'I:N
+Faculty faculty1 PHD 5 9876854534 faculty1.one 78574534 E/=4F/$7
+Student contestant3 PHD 2 9876857408 contestant3.three 509876978 3HK#6%.6
+Student Manogya Bachelors 2 9351744811 shubhj981 500119383 ?5C2*!N%
+Judge student4 -- -- 2342323333 sparsh -- T03BO-,2
+Student student5 PHD 2 8897875676 student5.upes 500987685 .GC::-K)
+
